@@ -1,0 +1,13 @@
+{
+  "name": "hubbot",
+  "version": "0.0.1",
+  "description": "Discord bot for The HUB",
+  "main": "bot.js",
+  "author": "Tynoxs",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "snekfetch": "^4.0.4",
+    "urban": "^0.3.2",
+  }
+}
